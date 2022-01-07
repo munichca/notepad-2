@@ -1,0 +1,103 @@
+[
+    {
+        "titulo" : "Suspiria", 
+        "estado" : "terminada"
+    },
+    {
+        "titulo" : "The exorcist", 
+        "estado" : "terminada"
+    },
+    {
+        "titulo" : "Rosemary's baby", 
+        "estado" : "terminada"
+    },    {
+        "titulo" : "The silence of the lambs", 
+        "estado" : "terminada"
+    }
+    ,    {
+        "titulo" : "Possesion", 
+        "estado" : "terminada"
+    },    {
+        "titulo" : "Repulsion", 
+        "estado" : "terminada"
+    },
+    {
+        "titulo" : "Persona", 
+        "estado" : "terminada"
+    },
+    {
+        "titulo" : "Midsommar", 
+        "estado" : "terminada"
+    },
+    {
+        "titulo" : "The vvitch", 
+        "estado" : "terminada"
+    },
+    {
+        "titulo" : "Audition", 
+        "estado" : "terminada"
+    },
+    {
+        "titulo" : "Body heat", 
+        "estado" : "en proceso"
+    },
+    {
+        "titulo" : "Sonatine", 
+        "estado" : "en proceso"
+    },
+    {
+        "titulo" : "A tale of two sisters", 
+        "estado" : "en proceso"
+    },    {
+        "titulo" : "The villainess", 
+        "estado" : "en proceso"
+    },
+    {
+        "titulo" : "Visitor Q", 
+        "estado" : "en proceso"
+    },
+    {
+        "titulo" : "Frozen 2", 
+        "estado" : "pendiente"
+    },
+    {
+        "titulo" : "Toy story 4", 
+        "estado" : "pendiente"
+    },
+    {
+        "titulo" : "Soul", 
+        "estado" : "pendiente"
+    },
+    {
+        "titulo" : "Cruella", 
+        "estado" : "pendiente"
+    },
+    {
+        "titulo" : "Raya", 
+        "estado" : "pendiente"
+    },
+    {
+        "titulo" : "Onward", 
+        "estado" : "pendiente"
+    },
+    {
+        "titulo" : "Tangled", 
+        "estado" : "pendiente"
+    },
+    {
+        "titulo" : "The lighthouse", 
+        "estado" : "terminada"
+    },
+    {
+        "titulo" : "In the earth", 
+        "estado" : "terminada"
+    },
+    {
+        "titulo" : "Play Misty for me", 
+        "estado" : "en proceso"
+    },
+    {
+        "titulo" : "Fantastic Mr. Fox", 
+        "estado" : "pendiente"
+    }
+]
